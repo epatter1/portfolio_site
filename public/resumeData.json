@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name":"Elisha Patterson",
+    "occupation":"Aspiring Data Scientist",
+    "description":"Possessing a strong background in retail and software developement, I am transitioning into the data science industry seeking to bring data to life and create unprecedented change in unprecedented times",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Atlanta",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://www.linkedin.com/in/elisha-patterson/",
+    "resumedownload":"https://www.linkedin.com/in/elisha-patterson/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Georgia Gwinnett College",
+        "degree":"B.S. Computer Science",
+        "graduated":"May 2016",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"WALMART LABS",
+        "title":"ASSOCIATE SOFTWARE ENGINEER/ANALYST",
+        "years":"April 2017 - April 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"WALMART – STORE 8 INNOVATION BOOTCAMP",
+        "title":"TEAM LEAD AND FINALIST",
+        "years":"June 2018 - October 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"WALMART STORES, INC.",
+        "title":"FRONT END CASHIER & ELECTRONICS TEAM LEAD",
+        "years":"March 2010 - March 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"TRAVELPORT",
+        "title":"SOFTWARE ENGINEER INTERN LEAD",
+        "years":"May 2015 - August 2015",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"GOOGLE, INC.",
+        "title":"FOUNDING PRESIDENT | DEVELOPER ADVOCATE | STUDENT AMBASSADOR",
+        "years":"June 2014 - May 2016",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name":"React | D3",
+        "level":"50%"
+      },
+      {
+        "name":"Pandas | NumPy | Matplotlib",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Retail",
+        "level":"50%"
+      },
+      {
+        "name":"JIRA | Confluence",
+        "level":"50%"
+      },
+      {
+        "name":"Docker | Kubernetes",
+        "level":"50%"
+      },
+      {
+        "name":"MS Excel Macros | VBA",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project 1",
+        "category":"A project all about project 1",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      },
+      {
+        "title":"Project 2",
+        "category":"A project all about project 2",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      },
+      {
+        "title":"Project 3",
+        "category":"A project all about project 3",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      },
+      {
+        "title":"Project 4",
+        "category":"A project all about project 4",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      },
+      {
+        "title":"Project 5",
+        "category":"A project all about project 5",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      },
+      {
+        "title":"Project 6",
+        "category":"A project all about project 6",
+        "image":"project1_svg.svg",
+        "url":"https://github.com/epatter1/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Elisha is a part of our internship program and continuously demonstrates positive leadership. We (Renu and I) would like to recognize him for his contribution to the team. Great Job!",
+        "user":"Tatiana Tinsley & Renu Midha, HR managers, Travelport LTD"
+      },
+      {
+        "text":"I'm very excited and proud of you man. You have been an excellent example of what a young man should strive to be and I'm very blessed to have met you and gotten a chance to work alongside you on various tasks!! God bless you man and I can't wait to see what adventures will unfold for you...",
+        "user":"Jahmal Newton, Colleague, Technology Ambassador's Program"
+      },
+      {
+        "text":"Elisha, thank you very much for being a perfect partner. You will be an excellent boss. I pray your life is filled with happiness and blessings. So glad to have you as a classmate and a friend.",
+        "user":"Ying, Colleague, Gerogia Gwinnett College"
+      }
+
+    ]
+  }
+}
