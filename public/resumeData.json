@@ -5,47 +5,42 @@
     "description":"Possessing a strong background in retail and software development, I am transitioning into the data science industry seeking to bring data to life and create unprecedented change in unprecedented times",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "contactmessage":"Note! Contact submission form not currently active. Contact me by the phone or email listed. Thanks!",
+    "email": "elishajp20@gmail.com",
+    "phone": "(678) 247-3157",
     "address":{
-      "street":"(Your Street)",
-      "city":"Atlanta",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Buford",
+      "state":"GA",
+      "zip": ""
     },
     "website": "https://www.linkedin.com/in/elisha-patterson/",
     "resumedownload":"https://drive.google.com/file/d/1GOckkvy684uAkv5JWrW9z3zh4swkh8e4/view?usp=sharing",
     "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/elisha-patterson/",
+        "className":"fa fa-linkedin"
+      },      
+      {
+        "name":"github",
+        "url":"http://github.com/epatter1",
+        "className":"fa fa-github"
+      },
       {
         "name":"facebook",
         "url":"https://www.facebook.com/elisha.patterson.98/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"zoom",
-        "url":"https://us04web.zoom.us/j/",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/elisha-patterson/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/iamthelisha/",
         "className":"fa fa-instagram"
-      },
+      },      
       {
-        "name":"github",
-        "url":"http://github.com/epatter1",
-        "className":"fa fa-github"
+        "name":"zoom",
+        "url":"https://us04web.zoom.us/j/",
+        "className":"fa fa-video-camera"
       },
       {
         "name":"skype",

@@ -852,6 +852,7 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: red;
 }
 #contact .header-col { padding-top: 6px; }
 
