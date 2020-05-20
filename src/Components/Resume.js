@@ -15,14 +15,20 @@ class Resume extends Component {
                 <em className="date">{education.graduated}</em>
               </p>
               <p>{education.description}</p>
-            </div>
-            <a
+
+              {education.videoUrl ? <div class="iframe-container"><iframe src={education.videoUrl} allowfullscreen>
+              </iframe></div> : "  "}<br />
+              
+              <a
               href="https://elishapatterson.wordpress.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <button>Learn More!</button>
             </a>
+
+            </div>
+           
           </React.Fragment>
         );
       });

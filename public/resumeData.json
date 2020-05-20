@@ -56,7 +56,8 @@
         "school":"Georgia Gwinnett College",
         "degree":"B.S. Computer Science",
         "graduated":"May 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+        "videoUrl":"https://player.vimeo.com/video/120834578"
       }
     ],
     "work":[
@@ -64,7 +65,8 @@
         "company":"WALMART LABS",
         "title":"ASSOCIATE SOFTWARE ENGINEER/ANALYST",
         "years":"April 2017 - April 2020",
-        "description":"Facilitated development of software and tools to deliver point-of-sales strategies and solutions. ■ Analyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. ■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. ■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. ■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction"
+        "description":"Facilitated development of software and tools to deliver point-of-sales strategies and solutions. ■ Analyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. ■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. ■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. ■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction",
+        "videoUrl":"https://www.youtube.com/embed/q_w-ReYoGBs"
       },
       {
         "company":"WALMART – STORE 8 INNOVATION BOOTCAMP",
