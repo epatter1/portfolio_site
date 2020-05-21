@@ -1,197 +1,195 @@
 {
   "main": {
-    "name":"Elisha Patterson",
-    "occupation":"Aspiring Data Scientist",
-    "description":"Possessing a strong background in retail and software development, I am transitioning into the data science industry seeking to bring data to life and create unprecedented change in unprecedented times",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Note! Contact submission form not currently active. Contact me by the phone or email listed. Thanks!",
+    "name": "Elisha Patterson",
+    "occupation": "Aspiring Data Scientist",
+    "description": "Possessing a strong background in retail and software development, I am transitioning into the data science industry seeking to bring data to life and create unprecedented change in unprecedented times",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Note! Contact submission form not currently active. Contact me by the phone or email listed. Thanks!",
     "email": "elishajp20@gmail.com",
     "phone": "(678) 247-3157",
-    "address":{
-      "street":"",
-      "city":"Buford",
-      "state":"GA",
+    "address": {
+      "street": "",
+      "city": "Atlanta",
+      "state": "GA",
       "zip": ""
     },
     "website": "https://www.linkedin.com/in/elisha-patterson/",
-    "resumedownload":"https://drive.google.com/file/d/1GOckkvy684uAkv5JWrW9z3zh4swkh8e4/view?usp=sharing",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1GOckkvy684uAkv5JWrW9z3zh4swkh8e4/view?usp=sharing",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/elisha-patterson/",
-        "className":"fa fa-linkedin"
-      },      
-      {
-        "name":"github",
-        "url":"http://github.com/epatter1",
-        "className":"fa fa-github"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elisha-patterson/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/elisha.patterson.98/",
-        "className":"fa fa-facebook"
+        "name": "github",
+        "url": "http://github.com/epatter1",
+        "className": "fa fa-github"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/iamthelisha/",
-        "className":"fa fa-instagram"
-      },      
-      {
-        "name":"zoom",
-        "url":"https://us04web.zoom.us/j/",
-        "className":"fa fa-video-camera"
+        "name": "facebook",
+        "url": "https://www.facebook.com/elisha.patterson.98/",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"skype",
-        "url":"https://join.skype.com/invite/sBRTPN4HbQzH",
-        "className":"fa fa-skype"
+        "name": "instagram",
+        "url": "https://www.instagram.com/iamthelisha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "zoom",
+        "url": "https://us04web.zoom.us/j/",
+        "className": "fa fa-video-camera"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/sBRTPN4HbQzH",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"Georgia Gwinnett College",
-        "degree":"B.S. Computer Science",
-        "graduated":"May 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc.",
-        "videoUrl":"https://player.vimeo.com/video/120834578"
-      }
-    ],
-    "work":[
-      {
-        "company":"WALMART LABS",
-        "title":"ASSOCIATE SOFTWARE ENGINEER/ANALYST",
-        "years":"April 2017 - April 2020",
-        "description":"Facilitated development of software and tools to deliver point-of-sales strategies and solutions. ■ Analyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. ■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. ■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. ■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction",
-        "videoUrl":"https://www.youtube.com/embed/q_w-ReYoGBs"
-      },
-      {
-        "company":"WALMART – STORE 8 INNOVATION BOOTCAMP",
-        "title":"TEAM LEAD AND FINALIST",
-        "years":"June 2018 - October 2018",
-        "description":"■ Upheld role as selected contestant from pool of 200 applicants to pioneer inaugural Store 8 startup innovation initiative (iD8). ■ Contributed ideas to influence future of Walmart. Chosen as 1 of 35 contestants to advance to next round. ■ Spearheaded iD8 team in 10-week boot camp; collaborated with peers across organization for 3 months. ■ Succeeded team’s 2nd place ranking for most innovative idea pitched to C-level executives at Walmart; team conducted 100+ interviews with store associates managers and third-party service providers to validate data-driven solutions.",
-        "videoUrl":"https://www.youtube.com/embed/AzfAuSjpjMc"
-      },
-      {
-        "company":"WALMART STORES, INC.",
-        "title":"FRONT END CASHIER & ELECTRONICS TEAM LEAD",
-        "years":"March 2010 - March 2017",
-        "description":"As an Electronics, Wireless, Online Pick-up, and Layaway associate, I had the opportunity to work in the most popular area of the store getting to learn and provide customers with a variety of helpful services. Awarded: ■ Part-time Associate of the Month ■ Evening Associate of the Month ■ SAM (Service Always Matters) Award. My responsibilities included: ■ Maintaining the Electronics areas in accordance with Company policies and procedures by properly handling claims and returns, zoning the area, arranging and organizing merchandise/supplies, identifying shrink and damages, and ensuring a safe work environment. ■ Maintaining merchandise presentation in the Electronics area by stocking and rotating merchandise appropriately, and securing fragile and high-shrink merchandise. ■ Providing Customer service by acknowledging the Customer, identifying Customer needs, assisting with purchasing decisions, locating merchandise, resolving Customer issues and concerns, and promoting products and services, while maintaining a safe shopping environment. ■ Receiving and stocking merchandise/supplies from distribution centers and suppliers and organize and maintain the Electronics area by following company procedures, utilizing equipment appropriately, merchandising, and completing and retaining required paperwork, logs, and other documentation. ■ Operating equipment, such a cash registers and related tools, to process Customer purchases using appropriate procedures for different payment types and items sold. ■ Organizing and maintaining the Electronics Department by securing merchandise, assisting Customers with warranty transactions, maintain the operation of displays, and categorize videos, CDs, and DVDs. ■ Processing Customer online orders as well as layaway payments and purchases in the Site-to-Store area. ■ Setting up phone contracts and maintaining documentation for upgrading, adding new lines, and leasing phones.",
-        "imgUrl":"https://photos.app.goo.gl/F3swSZhSL5gGPJm48"
-      },
-      {
-        "company":"TRAVELPORT",
-        "title":"SOFTWARE ENGINEER INTERN LEAD",
-        "years":"May 2015 - August 2015",
-        "description":"■ Executed role as selected site leader for 30 interns across Atlanta, Denver and Kansas City. Coordinated projects, facilitated practice sessions and help with presentations. ■ Awarded Beyond Award by executives for impactful leadership on business efforts. ■ Enhanced user monitoring functionality in Travelport Debit Express application, used C# along with VB.Net/ASP.NET and DB2/SSRS. ■ Awarded the distinguished Beyond Award as a result of my leadership.",
-        "videoUrl":"https://www.youtube.com/embed/wF6V__p_HCo"
-        
-      },
-      {
-        "company":"GOOGLE, INC.",
-        "title":"FOUNDING PRESIDENT (GOOGLE GRIZZLIES) | DEVELOPER ADVOCATE | STUDENT AMBASSADOR",
-        "years":"June 2014 - May 2016",
-        "description":"■ Founded Google Grizzlies student organization on campus. Hosted numerous events for technical and non-technical audiences including tech and non-tech talks as well as a first-ever hack-a-thon event featuring multiple industry professionals and speed networking activities for students. ■ Awarded Most Collaborative Student Organization Award. ■ Developed Android apps in school. ■ Lead a team of fellow ambassadors from across the nation as part of an 'American Idol' competition at Google to pitch the idea of an app we called Google Launch which would help drive innovation on campus by implementing a loyalty program featuring a forecast of campus events which culminated over time to reward members who stayed involved in greater and greater measure. Won 1st prize out of a pool of ~ 200 students. ■ Learn about innovative Google products and programs. ■ Connect with a unique network of Google Ambassadors across the world to drive and support Google initiatives. ■ Enhance my professional development, leadership, and communication skills. ■ Plan and host fun events on campus. ■ Act as a campus contact for Google teams. ■ Help Google better understand GGC campus culture.",
-        "videoUrl":"https://www.youtube.com/embed/B4mOlcsMwjI"
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"50%"
-      },
-      {
-        "name":"SQL",
-        "level":"50%"
-      },
-      {
-        "name":"React | D3",
-        "level":"50%"
-      },
-      {
-        "name":"Pandas | NumPy | Matplotlib",
-        "level":"50%"
-      },
-      {
-        "name":"Java",
-        "level":"50%"
-      },
-      {
-        "name":"Retail",
-        "level":"50%"
-      },
-      {
-        "name":"JIRA | Confluence",
-        "level":"50%"
-      },
-      {
-        "name":"Docker | Kubernetes",
-        "level":"50%"
-      },
-      {
-        "name":"MS Excel Macros | VBA",
-        "level":"50%"
-      }
-    ]
-  },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Project 1",
-        "category":"A project all about project 1",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 1",
+        "category": "A project all about project 1",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       },
       {
-        "title":"Project 2",
-        "category":"A project all about project 2",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 2",
+        "category": "A project all about project 2",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       },
       {
-        "title":"Project 3",
-        "category":"A project all about project 3",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 3",
+        "category": "A project all about project 3",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       },
       {
-        "title":"Project 4",
-        "category":"A project all about project 4",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 4",
+        "category": "A project all about project 4",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       },
       {
-        "title":"Project 5",
-        "category":"A project all about project 5",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 5",
+        "category": "A project all about project 5",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       },
       {
-        "title":"Project 6",
-        "category":"A project all about project 6",
-        "image":"project1_svg.svg",
-        "url":"https://github.com/epatter1/"
+        "title": "Project 6",
+        "category": "A project all about project 6",
+        "image": "project1_svg.svg",
+        "url": "https://github.com/epatter1/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "text":"Elisha is a part of our internship program and continuously demonstrates positive leadership. We (Renu and I) would like to recognize him for his contribution to the team. Great Job!",
-        "user":"Tatiana Tinsley & Renu Midha, HR managers, Travelport LTD"
-      },
-      {
-        "text":"I'm very excited and proud of you man. You have been an excellent example of what a young man should strive to be and I'm very blessed to have met you and gotten a chance to work alongside you on various tasks!! God bless you man and I can't wait to see what adventures will unfold for you...",
-        "user":"Jahmal Newton, Colleague, Technology Ambassador's Program"
-      },
-      {
-        "text":"Elisha, thank you very much for being a perfect partner. You will be an excellent boss. I pray your life is filled with happiness and blessings. So glad to have you as a classmate and a friend.",
-        "user":"Ying, Colleague, Gerogia Gwinnett College"
+        "school": "Georgia Gwinnett College",
+        "degree": "B.S. Computer Science",
+        "graduated": "May 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+        "videoUrl": "https://player.vimeo.com/video/120834578"
       }
-
+    ],
+    "work": [
+      {
+        "company": "WALMART LABS",
+        "title": "ASSOCIATE SOFTWARE ENGINEER/ANALYST",
+        "years": "April 2017 - April 2020",
+        "description": "Facilitated development of software and tools to deliver point-of-sales strategies and solutions. ■ Analyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. ■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. ■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. ■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction",
+        "videoUrl": "https://www.youtube.com/embed/q_w-ReYoGBs"
+      },
+      {
+        "company": "WALMART – STORE 8 INNOVATION BOOTCAMP",
+        "title": "TEAM LEAD AND FINALIST",
+        "years": "June 2018 - October 2018",
+        "description": "■ Upheld role as selected contestant from pool of 200 applicants to pioneer inaugural Store 8 startup innovation initiative (iD8). ■ Contributed ideas to influence future of Walmart. Chosen as 1 of 35 contestants to advance to next round. ■ Spearheaded iD8 team in 10-week boot camp; collaborated with peers across organization for 3 months. ■ Succeeded team’s 2nd place ranking for most innovative idea pitched to C-level executives at Walmart; team conducted 100+ interviews with store associates managers and third-party service providers to validate data-driven solutions.",
+        "videoUrl": "https://www.youtube.com/embed/AzfAuSjpjMc"
+      },
+      {
+        "company": "WALMART STORES, INC.",
+        "title": "FRONT END CASHIER & ELECTRONICS TEAM LEAD",
+        "years": "March 2010 - March 2017",
+        "description": "As an Electronics, Wireless, Online Pick-up, and Layaway associate, I had the opportunity to work in the most popular area of the store getting to learn and provide customers with a variety of helpful services. Awarded: ■ Part-time Associate of the Month ■ Evening Associate of the Month ■ SAM (Service Always Matters) Award. My responsibilities included: ■ Maintaining the Electronics areas in accordance with Company policies and procedures by properly handling claims and returns, zoning the area, arranging and organizing merchandise/supplies, identifying shrink and damages, and ensuring a safe work environment. ■ Maintaining merchandise presentation in the Electronics area by stocking and rotating merchandise appropriately, and securing fragile and high-shrink merchandise. ■ Providing Customer service by acknowledging the Customer, identifying Customer needs, assisting with purchasing decisions, locating merchandise, resolving Customer issues and concerns, and promoting products and services, while maintaining a safe shopping environment. ■ Receiving and stocking merchandise/supplies from distribution centers and suppliers and organize and maintain the Electronics area by following company procedures, utilizing equipment appropriately, merchandising, and completing and retaining required paperwork, logs, and other documentation. ■ Operating equipment, such a cash registers and related tools, to process Customer purchases using appropriate procedures for different payment types and items sold. ■ Organizing and maintaining the Electronics Department by securing merchandise, assisting Customers with warranty transactions, maintain the operation of displays, and categorize videos, CDs, and DVDs. ■ Processing Customer online orders as well as layaway payments and purchases in the Site-to-Store area. ■ Setting up phone contracts and maintaining documentation for upgrading, adding new lines, and leasing phones.",
+        "imgUrl": "https://photos.app.goo.gl/F3swSZhSL5gGPJm48"
+      },
+      {
+        "company": "TRAVELPORT",
+        "title": "SOFTWARE ENGINEER INTERN LEAD",
+        "years": "May 2015 - August 2015",
+        "description": "■ Executed role as selected site leader for 30 interns across Atlanta, Denver and Kansas City. Coordinated projects, facilitated practice sessions and help with presentations. ■ Awarded Beyond Award by executives for impactful leadership on business efforts. ■ Enhanced user monitoring functionality in Travelport Debit Express application, used C# along with VB.Net/ASP.NET and DB2/SSRS. ■ Awarded the distinguished Beyond Award as a result of my leadership.",
+        "videoUrl": "https://www.youtube.com/embed/wF6V__p_HCo"
+      },
+      {
+        "company": "GOOGLE, INC.",
+        "title": "FOUNDING PRESIDENT (GOOGLE GRIZZLIES) | DEVELOPER ADVOCATE | STUDENT AMBASSADOR",
+        "years": "June 2014 - May 2016",
+        "description": "■ Founded Google Grizzlies student organization on campus. Hosted numerous events for technical and non-technical audiences including tech and non-tech talks as well as a first-ever hack-a-thon event featuring multiple industry professionals and speed networking activities for students. ■ Awarded Most Collaborative Student Organization Award. ■ Developed Android apps in school. ■ Lead a team of fellow ambassadors from across the nation as part of an 'American Idol' competition at Google to pitch the idea of an app we called Google Launch which would help drive innovation on campus by implementing a loyalty program featuring a forecast of campus events which culminated over time to reward members who stayed involved in greater and greater measure. Won 1st prize out of a pool of ~ 200 students. ■ Learn about innovative Google products and programs. ■ Connect with a unique network of Google Ambassadors across the world to drive and support Google initiatives. ■ Enhance my professional development, leadership, and communication skills. ■ Plan and host fun events on campus. ■ Act as a campus contact for Google teams. ■ Help Google better understand GGC campus culture.",
+        "videoUrl": "https://www.youtube.com/embed/B4mOlcsMwjI"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "React | D3",
+        "level": "50%"
+      },
+      {
+        "name": "Pandas | NumPy | Matplotlib",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
+        "name": "Retail",
+        "level": "50%"
+      },
+      {
+        "name": "JIRA | Confluence",
+        "level": "50%"
+      },
+      {
+        "name": "Docker | Kubernetes",
+        "level": "50%"
+      },
+      {
+        "name": "MS Excel Macros | VBA",
+        "level": "50%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Elisha is a part of our internship program and continuously demonstrates positive leadership. We (Renu and I) would like to recognize him for his contribution to the team. Great Job!",
+        "user": "Tatiana Tinsley & Renu Midha, HR managers, Travelport LTD"
+      },
+      {
+        "text": "I'm very excited and proud of you man. You have been an excellent example of what a young man should strive to be and I'm very blessed to have met you and gotten a chance to work alongside you on various tasks!! God bless you man and I can't wait to see what adventures will unfold for you...",
+        "user": "Jahmal Newton, Colleague, Technology Ambassador's Program"
+      },
+      {
+        "text": "Elisha, thank you very much for being a perfect partner. You will be an excellent boss. I pray your life is filled with happiness and blessings. So glad to have you as a classmate and a friend.",
+        "user": "Ying, Colleague, Gerogia Gwinnett College"
+      }
     ]
   }
 }
