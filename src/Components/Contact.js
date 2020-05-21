@@ -25,7 +25,7 @@ class Contact extends Component {
 
             </div>
 
-            <div className="ten columns">
+      {/*       <div className="ten columns">
 
                   <p className="lead">{message}</p>
 
@@ -84,7 +84,7 @@ class Contact extends Component {
                      {city}, {state} {zip}<br />
                      <span>{phone}</span><br />
                      <span><a href="mailto:elishajp20@gmail.com">{email}</a></span><br />
-						   {/*{street} <br />*/}					
+						   {/*{street} <br />					
 						   
 					   </p>
 				   </div>
@@ -110,11 +110,15 @@ class Contact extends Component {
                      </li>
                   </ul>
                </div>
-               */}
+               
             </aside>
+         */}   
       </div>
+      
    </section>
+   
     );
+    
   }
 }
 
