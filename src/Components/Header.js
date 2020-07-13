@@ -27,7 +27,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            {/*<li><a className="smoothscroll" href="#contact">Contact</a></li>*/}
          </ul>
 
       </nav>
@@ -38,7 +38,14 @@ class Header extends Component {
             <h3>Hi there! I'm an {city}-based <span>{occupation}</span>. {description}.</h3>
             <hr />
             <strong><h3><i>Portfolio in progress... Check back soon!</i></h3></strong>
-            <ul className="social">
+
+          {/*   <strong><h3><i>"I know that you're afraid... You're afraid of change. I don't know the future. I didn't come here
+             to tell you how this is going to end. I came here to tell you how it is going to begin. 
+             I am going to hang up this phone and then I am going to show these people what you don't
+              want them to see. I'm going to show them a world without rules or control -
+               without borders or boundaries - A world where ANYTHING is possible. Where we go from there is a
+               choice I leave to you." - Neo, The Matrix</i></h3></strong> */}
+            <ul className="social"> 
                {networks}
             </ul>
          </div>

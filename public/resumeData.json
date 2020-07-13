@@ -97,7 +97,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Industries of interest",
+    "industrymessage": "Industries of interest",
     "education": [
       {
         "school": "Georgia Gwinnett College",
@@ -112,21 +112,21 @@
         "company": "WALMART LABS",
         "title": "ASSOCIATE SOFTWARE ENGINEER/ANALYST",
         "years": "April 2017 - April 2020",
-        "description": "Facilitated development of software and tools to deliver point-of-sales strategies and solutions. ■ Analyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. ■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. ■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. ■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction",
+        "description": "■ Facilitated development of software and tools to deliver point-of-sales strategies and solutions. \nAnalyzed point-of-sale TLOG records in Splunk to track trends in charity donation and sales data for cloud-powered checkout transactions; identifying opportunities for saving time and maximizing donations by >5% monthly ■ Analyzed layaway reporting records in Splunk and compared findings against other layaway reports to determine the optimal report to be given to the internal audit teams. \n\n■ Increased charity donations over 5%, collaborated with cloud-powered checkout (CPC) teams to design multi-channel charity prompt web service to allow CPC clients to prompt store associates and accept donations after each transaction. \n\n■ Developed new self-service tool, Fuel Ad Content Tool (FACT) in React, to enable teams to manage ad campaigns, saved 4 days per month per location (1000+); enabled >$100K in cost savings in release support costs and saved 100 annual labor hours. Setup Node REST APIs and DB schema in MariaDB. \n\n■ Saved >$300K in annual paper printing expenses and reduced receipt size, modifications to receipt structure metrics in Global Sales Application (GSA). Streamlined checkout time and improved efficiency up to 50% per transaction",
         "videoUrl": "https://www.youtube.com/embed/q_w-ReYoGBs"
       },
       {
         "company": "WALMART – STORE 8 INNOVATION BOOTCAMP",
         "title": "TEAM LEAD AND FINALIST",
         "years": "June 2018 - October 2018",
-        "description": "■ Upheld role as selected contestant from pool of 200 applicants to pioneer inaugural Store 8 startup innovation initiative (iD8). ■ Contributed ideas to influence future of Walmart. Chosen as 1 of 35 contestants to advance to next round. ■ Spearheaded iD8 team in 10-week boot camp; collaborated with peers across organization for 3 months. ■ Succeeded team’s 2nd place ranking for most innovative idea pitched to C-level executives at Walmart; team conducted 100+ interviews with store associates managers and third-party service providers to validate data-driven solutions.",
+        "description": "■ Upheld role as selected contestant from pool of 200 applicants to pioneer inaugural Store 8 startup innovation initiative (iD8). \n\n■ Contributed ideas to influence future of Walmart. Chosen as 1 of 35 contestants to advance to next round. ■ Spearheaded iD8 team in 10-week boot camp; collaborated with peers across organization for 3 months. ■ Succeeded team’s 2nd place ranking for most innovative idea pitched to C-level executives at Walmart; team conducted 100+ interviews with store associates managers and third-party service providers to validate data-driven solutions.",
         "videoUrl": "https://www.youtube.com/embed/AzfAuSjpjMc"
       },
       {
         "company": "TRAVELPORT",
         "title": "SOFTWARE ENGINEER INTERN LEAD",
         "years": "May 2015 - August 2015",
-        "description": "■ Executed role as selected site leader for 30 interns across Atlanta, Denver and Kansas City. Coordinated projects, facilitated practice sessions and help with presentations. ■ Awarded Beyond Award by executives for impactful leadership on business efforts. ■ Enhanced user monitoring functionality in Travelport Debit Express application, used C# along with VB.Net/ASP.NET and DB2/SSRS. ■ Awarded the distinguished Beyond Award as a result of my leadership.",
+        "description": "Executed role as selected site leader\n for 30 interns across Atlanta, Denver and Kansas City. Coordinated projects, facilitated practice sessions and help with presentations. Awarded Beyond Award by executives for impactful leadership on business efforts. Enhanced user monitoring functionality in Travelport Debit Express application, used C# along with VB.Net/ASP.NET and DB2/SSRS. Awarded the distinguished Beyond Award as a result of my leadership.",
         "videoUrl": "https://www.youtube.com/embed/wF6V__p_HCo"
       },
       {
@@ -144,14 +144,21 @@
         "imgUrl": "https://photos.app.goo.gl/F3swSZhSL5gGPJm48"
       }
     ],
-    "skills": [
+    "industries":[
       {
-        "name": "Interactive AI",
-        "level": "50%"
+        "name":"Sports Analytics",
+        "description":"Having played sports growing up, this industry really puts the \"Game\" in Game Changing Insights!",
+        "image":"sports_analytics_espn.jpg"
       },
       {
-        "name": "JIRA | Confluence",
-        "level": "50%"
+        "name":"Retail Analytics",
+        "description":"Retail analytics is constantly having to adapt to the shopper of the future.",
+        "image":"retail_analytics.png"
+      },
+      {
+        "name":"StoryFile",
+        "description":"Absolutely LOVE this stuff. Empowering the future from the present!",
+        "image":"storyfile_analytics_cir.png"
       }
     ]
   },
